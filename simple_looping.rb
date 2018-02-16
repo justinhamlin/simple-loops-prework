@@ -23,7 +23,9 @@ end
 def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
   # hint: user a counter to tell the while loop when to stop!
+  while number_of_times < number_of_times
   phrase = "Welcome to Flatiron School's Web Development Course!"
+end
   
 end
 
